@@ -27,7 +27,8 @@
     "code": 200,
     "message": "User logged in successfully",
     "data": {
-        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE0Iiwicm9sZSI6InN0dWRlbnQiLCJzY2hvb2xpZCI6IjIiLCJpYXQiOjE2MDg3MjMyODQsImV4cCI6MTYwODgwOTY4NH0.7fOFm3SAuxT4_zdHd_W7Jrqz6IVSU1kbVlLgfDy1FP4"
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE0Iiwicm9sZSI6InN0dWRlbnQiLCJzY2hvb2xpZCI6IjIiLCJpYXQiOjE2MDg3MjMyODQsImV4cCI6MTYwODgwOTY4NH0.7fOFm3SAuxT4_zdHd_W7Jrqz6IVSU1kbVlLgfDy1FP4",
+         "loginName":"Admin"
     },
     "error": null
 }
